@@ -1,0 +1,37 @@
+header{
+    font-size: 80px;
+}
+
+.container{
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.div1{
+    padding: 40px;
+    height: 70px;
+    width: 90px;
+    background-color: #999;
+    position: fixed;
+    left: 40px;
+    top: 0;
+}
+.div2{
+    position: relative;
+    width: 70%;
+    background-color: #999;
+    padding: 90px;
+    text-align: center;
+}
+
+.div3{
+    position: absolute;
+    background-color: #eee;
+    padding: 70px;
+    text-align: center;
+    right: 10px;
+    top: 350px;
+}
+
+
